@@ -1,11 +1,10 @@
-'use client';
 import React from 'react';
-import DarkSwitch from '@/components/DarkSwitch';
 
 export default async function App() {
   return (
     <div>
-      <DarkSwitch />
+      <h1>Page</h1>
+      <p>This is a page.</p>
     </div>
   );
 }
